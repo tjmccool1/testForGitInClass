@@ -1,0 +1,4 @@
+
+
+add all files to staging area - git add . 
+
